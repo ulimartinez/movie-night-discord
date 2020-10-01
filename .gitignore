@@ -1,3 +1,5 @@
+# auth file
+auth.json
 # Logs
 logs
 *.log
